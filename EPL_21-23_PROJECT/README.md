@@ -2,7 +2,7 @@
 
 ## 📉📈Project Overview
 This project focuses on analysing Data from the English premier league from **2021 to 2023** using **Python (pandas)**, **Postgres** and **Power-Bi**
-The goal was to clean, transform, analyse using python(pandas)showing some minor visualizations with **matplotlib** for easy understanding of some events during that period the premier league,then creating and loading the dataset into **Postgres** database for some important queries and important columns addition  for easy understanding, finally loaded the dataset into **power-BI** to build an interactive dashboard to enhance understanding of key-insights.
+The goal was to clean, transform, analyse using python(pandas)showing some minor visualizations with **matplotlib** for easy understanding of some events during that period of the premier league,then creating and loading the dataset into **Postgres** database for some important queries and important columns addition  for easy understanding, finally loaded the dataset into **power-BI** to build an interactive dashboard to enhance understanding of key-insights.
 
 ----
 
