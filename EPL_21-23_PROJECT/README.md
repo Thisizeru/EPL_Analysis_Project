@@ -8,7 +8,7 @@ The goal was to clean, transform, analyse using python(pandas)showing some minor
 
 ## 🧰Tools & Technologies Used
 -- **Python:** Data cleaning,Analzying and little Visualization(Pandas,Matplotlib)
--- **Postgres:** Querying data for deeper analysis and addition of vital columns
+-- **Postgres:** Data Query for deeper analysis and addition of a vital column
 -- **Power-BI:** Dashboard creation for Data visualizations of key analysis
 -- **PARQUET/CSV:** Data source format
 
